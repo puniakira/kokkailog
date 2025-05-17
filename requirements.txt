@@ -2,3 +2,4 @@ streamlit
 requests
 pandas
 google-generativeai
+load_dotenv
